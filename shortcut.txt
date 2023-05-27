@@ -1,0 +1,8 @@
+How do I select the same word multiple times in VS Code?
+--------Ctrl + Shift + L---------
+Select  a word 
+Ctrl + d
+
+
+switch between opening and closing baractss
+Ctrl + Shift + \(back slash)
